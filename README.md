@@ -1,4 +1,3 @@
-# pilaralegre.github.io-clase
 
 <!DOCTYPE html>
 <html lang="es">
